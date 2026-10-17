@@ -1,0 +1,22 @@
+# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# models, data and recordings (too large / private for git)
+*.pt
+*.pth
+*.npy
+data/
+models/
+footage/
+*.mp4
+*.avi
+
+# binaries
+*.exe
+*.dll
